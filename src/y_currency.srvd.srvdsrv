@@ -1,0 +1,4 @@
+@EndUserText.label: 'currency'
+define service Y_currency {
+  expose y_currency00;
+}

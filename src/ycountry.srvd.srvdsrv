@@ -1,0 +1,4 @@
+@EndUserText.label: 'country'
+define service Ycountry {
+  expose y_country00 as country;
+}
